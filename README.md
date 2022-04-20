@@ -7,6 +7,9 @@
 {Describe your purpose for creating this software.}
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+This software is a simple 'hello world' program using the python programming language.
+
+The purpose for creating this software wast to help further my understanding of the python language.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
